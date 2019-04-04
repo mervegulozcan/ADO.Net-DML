@@ -1,0 +1,10 @@
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Connected_Update_Delete\bin\Debug\Connected_Update_Delete.exe.config
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Connected_Update_Delete\bin\Debug\Connected_Update_Delete.exe
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Connected_Update_Delete\bin\Debug\Connected_Update_Delete.pdb
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Connected_Update_Delete\obj\Debug\Connected_Update_Delete.csprojResolveAssemblyReference.cache
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Connected_Update_Delete\obj\Debug\Connected_Update_Delete.Form1.resources
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Connected_Update_Delete\obj\Debug\Connected_Update_Delete.Properties.Resources.resources
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Connected_Update_Delete\obj\Debug\Connected_Update_Delete.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Connected_Update_Delete\obj\Debug\Connected_Update_Delete.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Connected_Update_Delete\obj\Debug\Connected_Update_Delete.exe
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Connected_Update_Delete\obj\Debug\Connected_Update_Delete.pdb

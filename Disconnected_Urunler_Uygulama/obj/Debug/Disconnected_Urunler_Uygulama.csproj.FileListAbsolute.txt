@@ -1,0 +1,10 @@
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Disconnected_Urunler_Uygulama\bin\Debug\Disconnected_Urunler_Uygulama.exe.config
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Disconnected_Urunler_Uygulama\bin\Debug\Disconnected_Urunler_Uygulama.exe
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Disconnected_Urunler_Uygulama\bin\Debug\Disconnected_Urunler_Uygulama.pdb
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Disconnected_Urunler_Uygulama\obj\Debug\Disconnected_Urunler_Uygulama.csprojResolveAssemblyReference.cache
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Disconnected_Urunler_Uygulama\obj\Debug\Disconnected_Urunler_Uygulama.Form1.resources
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Disconnected_Urunler_Uygulama\obj\Debug\Disconnected_Urunler_Uygulama.Properties.Resources.resources
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Disconnected_Urunler_Uygulama\obj\Debug\Disconnected_Urunler_Uygulama.csproj.GenerateResource.cache
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Disconnected_Urunler_Uygulama\obj\Debug\Disconnected_Urunler_Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Disconnected_Urunler_Uygulama\obj\Debug\Disconnected_Urunler_Uygulama.exe
+C:\Users\Section2\Desktop\NT_ADO.Net_2\Disconnected_Urunler_Uygulama\obj\Debug\Disconnected_Urunler_Uygulama.pdb

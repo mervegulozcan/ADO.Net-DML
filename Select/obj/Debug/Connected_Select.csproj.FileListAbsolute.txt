@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT_ADO.Net_2\Select\obj\Debug\Connected_Select.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_2\Select\obj\Debug\Select.Form1.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_2\Select\obj\Debug\Select.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_2\Select\obj\Debug\Connected_Select.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_2\Select\obj\Debug\Connected_Select.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_2\Select\bin\Debug\Select.exe.config
+C:\Users\Section2\source\repos\NT_ADO.Net_2\Select\bin\Debug\Select.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_2\Select\bin\Debug\Select.pdb
+C:\Users\Section2\source\repos\NT_ADO.Net_2\Select\obj\Debug\Select.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_2\Select\obj\Debug\Select.pdb
